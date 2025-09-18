@@ -1,9 +1,9 @@
 # Repository setup 
-git clone [your-repo-url] 
+git clone [kkquaicoe_assignment_3.py] 
 cd comp163-personal-portfolio 
 
 # Development workflow (repeat for each change) 
-git add [username]_assignment_3.py 
+git add [kkquaicoe]_assignment_3.py 
 git status                    
 
 # Check what's staged 
