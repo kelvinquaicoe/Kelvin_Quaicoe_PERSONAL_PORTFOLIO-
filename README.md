@@ -1,4 +1,4 @@
-# Kelvin Quaicoe — Personal Portfolio
+# Personal portfolio
 
 A responsive personal portfolio showcasing my software engineering experience, research, projects, technical skills, and education.
 
